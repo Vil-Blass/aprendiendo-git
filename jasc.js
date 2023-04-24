@@ -41,12 +41,31 @@ var respuesta4=['<header>','title', '<list>',' id', 'doctype', 'Hard Text Mask L
 //las respuestas correctas
 
 
-
+var preguntascss=[
+    "1. ¿Cuál es el valor predeterminado del atributo display de CSS?",
+    "2. ¿Cuál es la propiedad CSS que se utiliza para especificar la imagen de fondo de un elemento?",
+    "3. ¿Cuál es el selector de CSS que se utiliza para aplicar un estilo a un elemento cuando el usuario pasa el mouse sobre él?",
+    "4. ¿Cuál es el valor predeterminado del atributo position de CSS?",
+    "5. ¿Cuál es el valor predeterminado del atributo overflow de CSS?",
+    "6. ¿Cuál es la propiedad CSS que se utiliza para especificar el tamaño de letra de un elemento?",
+    "7. ¿Cuál es el selector de CSS que se utiliza para aplicar un estilo a un elemento cuando se encuentra en su estado activo?",
+    "8. ¿Cuál es la propiedad CSS que se utiliza para especificar el espaciado entre letras?",
+    "9. ¿Cuál es el selector de CSS que se utiliza para aplicar un estilo a un elemento cuando se encuentra visitado?",
+    "10. ¿Cuál es la propiedad CSS que se utiliza para especificar el espacio entre líneas de un elemento?",
+    "11. ¿Cuál es la propiedad CSS que se utiliza para especificar el estilo de borde de un elemento?",
+    "12. ¿Cuál es el selector de CSS que se utiliza para aplicar un estilo a un elemento cuando está enfocado?",
+    "13. ¿Cuál es la propiedad CSS que se utiliza para especificar el ancho de un borde?",
+    "14. ¿Cuál es la propiedad CSS que se utiliza para especificar la opacidad de un elemento?",
+    "15. ¿Cuál es la propiedad CSS que se utiliza para especificar el grosor de la línea de borde en una tabla?",
+    "16. ¿Cuál es el selector de CSS que se utiliza para aplicar un estilo a un elemento cuando está desactivado?",
+    "17. ¿Cuál es la propiedad CSS que se utiliza para especificar el color de fondo de un elemento?",
+    "18. ¿Cuál es la propiedad CSS que se utiliza para especificar la posición de un elemento?",
+    ]
 
 //las 4 respuestas css
 var respuestacss1= ['block','background-color',':hover','static',' visible',' font-family',' :hover','letter-spacing',' :hover','letter-spacing ',' border-color',':hover',' border-color',' opacity','border-color',' :hover','background-color',' position',]
 var respuestacss2= [ 'inline','background-image',':active','relative','hidden','font-size ', ' :active','word-spacing',':active','word-spacing',' border-style',':active','border-style',' filter ','border-style',' :active',' background-image',' top ',]
 var respuestacss3= ['inline-block',' background-position',':visited','absolute','scroll',' font-style',':visited',' line-height',' :visited',' line-height','border-width',':visited','border-width','visibility',' border-width',' :visited','background-position ',' left ',]
 var respuestacss4= ['none',' background-size',':focus','fixed','auto','font-weight',' :focus','text-indent',':focus',' text-indent','border-radius',' :focus',' border-radius','display','border-collapse',' :disabled','background-size','all of the above',]
-//las respuestas correctas
+//las respuestas correctas css
 var correctascss=['inline',' background-image',':hover','static','visible','font-size',':active','letter-spacing',':visited','line-height','border-style',':focus','border-width','opacity','border-width',':disabled','background-color','position',]
