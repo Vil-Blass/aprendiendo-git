@@ -39,3 +39,11 @@ var respuesta4=['<header>','title', '<list>',' id', 'doctype', 'Hard Text Mask L
 
 
 //las respuestas correctas
+
+
+//las 4 respuestas css
+var respuestacss1= ['block','background-color',':hover','static',' visible',' font-family',' :hover','letter-spacing',' :hover','letter-spacing ',' border-color',':hover',' border-color',' opacity','border-color',' :hover','background-color',' position',]
+var respuestacss2= [ 'inline','background-image',':active','relative','hidden','font-size ', ' :active','word-spacing',':active','word-spacing',' border-style',':active','border-style',' filter ','border-style',' :active',' background-image',' top ',]
+var respuestacss3= ['inline-block',' background-position',':visited','absolute','scroll',' font-style',':visited',' line-height',' :visited',' line-height','border-width',':visited','border-width','visibility',' border-width',' :visited','background-position ',' left ',]
+var respuestacss4= ['none',' background-size',':focus','fixed','auto','font-weight',' :focus','text-indent',':focus',' text-indent','border-radius',' :focus',' border-radius','display','border-collapse',' :disabled','background-size','all of the above',]
+//las respuestas correctas
