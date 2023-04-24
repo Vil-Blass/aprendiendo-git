@@ -69,3 +69,29 @@ var respuestacss3= ['inline-block',' background-position',':visited','absolute',
 var respuestacss4= ['none',' background-size',':focus','fixed','auto','font-weight',' :focus','text-indent',':focus',' text-indent','border-radius',' :focus',' border-radius','display','border-collapse',' :disabled','background-size','all of the above',]
 //las respuestas correctas css
 var correctascss=['inline',' background-image',':hover','static','visible','font-size',':active','letter-spacing',':visited','line-height','border-style',':focus','border-width','opacity','border-width',':disabled','background-color','position',]
+
+
+var pregform = [
+
+ "1. ¿Cuál es el elemento HTML que se utiliza para crear un formulario?",
+ "2. ¿Cuál es el atributo HTML que se utiliza para especificar el tipo de entrada de un campo de formulario?",
+ "3. ¿Cuál es el atributo HTML que se utiliza para asociar una etiqueta con un campo de formulario?",
+ "4. ¿Cuál es el elemento HTML que se utiliza para crear un campo de entrada de texto de una sola línea?",
+ "5. ¿Cuál es el elemento HTML que se utiliza para crear un campo de entrada de contraseña?",
+ "6. ¿Cuál es el atributo HTML que se utiliza para especificar una opción en un elemento de lista desplegable?", 
+ "7. ¿Cuál es el elemento HTML que se utiliza para crear un botón de envío de un formulario?",
+ "8. ¿Cuál es el atributo HTML que se utiliza para especificar el valor predeterminado de un campo de formulario?",
+ "9. ¿Cuál es el elemento HTML que se utiliza para crear un campo de entrada de correo electrónico?",
+ "10.¿Cuál es el atributo HTML que se utiliza para especificar una opción seleccionada en un elemento de lista desplegable?",
+
+];
+
+
+//las 4 respuestas
+
+var respuestaform1 = ['<form>','type','for','<input type="text">','<input type="text">','value','<input type="submit">','value','<input type="text">','selected']
+var respuestaform2=['<input>','name','id','<input type="password">','<input type="password">','selected','<input type="reset">','name','<input type="password">','value']
+var respuestaform3=['<button>','value',' class','<textarea>','<textarea>','name','button>','type','<input type="email">','name']
+var respuestaform4=['<label>','placeholder','name','<input type="email">','<input type="email">','id','<submit>','placeholder','<textarea>','id']
+//las respuestas correctas form
+var correctasform=['<form>','type','for','<input type="password">','<input type="password">','value','<input type="submit">','value','<input type="email">','selected']
